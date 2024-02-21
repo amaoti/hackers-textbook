@@ -1,6 +1,6 @@
 ---
 title: "Unveiling the Significance of Hackers (1995) in Modern Technology Landscapes"
-author: "Amaobi Otiji"
+author: "Acid Burn"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
